@@ -1,0 +1,30 @@
+.cal{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  background-color: gray;
+  transform: translate(-50%,-50%);
+  border-radius: 20px;
+  padding: 20px;
+  border: 2px solid black;
+}	
+.text-box{
+  height: 45px;
+  width: 303px;
+  font-weight: bolder;
+  border: 3px solid black;
+  border-radius: 10px;
+  font-size: 25px;
+}
+.btn
+{
+  height: 50px;
+      width: 70px;
+      font-weight: bolder;
+      font-size: 20px;
+      border-radius: 10px;
+      border: 2px solid orange;
+      margin: 3px;
+      background-color: lightgray;
+      transition: .3s;
+}
